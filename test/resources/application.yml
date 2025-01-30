@@ -1,9 +1,0 @@
-spring:
-  datasource:
-    url: jdbc:postgresql://localhost:5432/postgresapp
-    username: postgres
-    password: admin@123
-  jpa: 
-      properties:
-                  hibernate:
-                  default_schema: testdata
